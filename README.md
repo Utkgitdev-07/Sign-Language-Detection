@@ -54,11 +54,11 @@ sign-language-detection/
 
 ### Gesture Detection
 
-![Gesture Detection](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshots/gesture_detection.png)
+![Gesture Detection](https://github.com/Utkgitdev-07/Sign-Language-Detection/blob/main/Screenshots/gesture_detection.png)
 
 ### Model Training
 
-![Model Training](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshots/model_training.png)
+![Model Training](https://github.com/Utkgitdev-07/Sign-Language-Detection/blob/main/Screenshots/model_training.png)
 
 ## ⚙️ When Should You Run Other Scripts?
 
