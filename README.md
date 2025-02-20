@@ -51,11 +51,14 @@ sign-language-detection/
 -> Press 'q' to exit.
 
 ## 🖼️ Screenshots & Working Demonstration
-📌 Upload screenshots of  project working inside the Screenshots/ folder.
 
-📷 Example Screenshots:
-Gesture Detection	Screenshots\{66D8AA31-067B-4CAF-82C4-3FE029783F2E}.png
-Model Training      Screenshots\{59760626-581D-46BF-8D92-B5ECAF4D5275}.png
+### Gesture Detection
+
+![Gesture Detection](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshots/gesture_detection.png)
+
+### Model Training
+
+![Model Training](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshots/model_training.png)
 
 ## ⚙️ When Should You Run Other Scripts?
 
