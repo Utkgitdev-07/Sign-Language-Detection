@@ -1,0 +1,12 @@
+# Ignore Image and processed numpy data
+Image/
+MP_Data/
+
+# Ignore model weights & logs
+model.h5
+Logs/
+
+# Ignore IDE & system files
+__pycache__/
+*.pyc
+.DS_Store
